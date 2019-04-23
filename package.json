@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/bglebrun/npmWheelMiddleware/issues"
   },
-  "homepage": "https://github.com/bglebrun/npmWheelMiddleware#readme"
+  "homepage": "https://github.com/bglebrun/npmWheelMiddleware#readme",
+  "dependencies": {
+    "logitech-g29": "^1.0.13",
+    "node-bluetooth": "^1.2.5"
+  }
 }
