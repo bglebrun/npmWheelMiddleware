@@ -1,0 +1,19 @@
+{
+  "name": "wheelmiddlware",
+  "version": "1.0.0",
+  "description": "Control arduino with wheel over bluetooth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bglebrun/npmWheelMiddleware.git"
+  },
+  "author": "Ben and Ben",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bglebrun/npmWheelMiddleware/issues"
+  },
+  "homepage": "https://github.com/bglebrun/npmWheelMiddleware#readme"
+}
